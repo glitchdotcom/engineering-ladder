@@ -1,6 +1,6 @@
 # Engineering Ladder Levels
 
-Jump to: [1](#level-1-software-engineer-i-ic1) / [2](#level-2-software-engineer-ii-ic2) / [3](#level-3-senior-engineer-ic3) / [4](#level-4-staff-engineer-ic4) / [5](#level-5-principal-engineer-ic5)
+Jump to: [Level 1](#level-1-software-engineer-i-ic1) / [Level 2](#level-2-software-engineer-ii-ic2) / [Level 3](#level-3-senior-engineer-ic3) / [Level 4](#level-4-staff-engineer-ic4) / [Level 5](#level-5-principal-engineer-ic5)
 
 The Engineering ladder is a tool that helps engineers and managers:
 - make development and career plans
